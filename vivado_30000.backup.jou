@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Jul 20 22:22:11 2021
+# Process ID: 30000
+# Current directory: C:/Users/Joey/Google_Drive/RISCV_Project/riscv_cpu_single_cycle
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14596 C:\Users\Joey\Google_Drive\RISCV_Project\riscv_cpu_single_cycle\riscv_cpu_single_cycle.xpr
+# Log file: C:/Users/Joey/Google_Drive/RISCV_Project/riscv_cpu_single_cycle/vivado.log
+# Journal file: C:/Users/Joey/Google_Drive/RISCV_Project/riscv_cpu_single_cycle\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Joey/Google_Drive/RISCV_Project/riscv_cpu_single_cycle/riscv_cpu_single_cycle.xpr
+update_compile_order -fileset sources_1
